@@ -11,8 +11,8 @@
 - 🔭 **I'm currently working on** **NeuroQ** (a hybrid quantum-classical neural network) and UI/UX projects at my Spazorlabs internship
 - 🤝 **I'm looking to collaborate on** open-source AI/ML models, Figma prototypes, and Full Stack (MERN) apps
 - 🆘 **I'm looking for help with** advanced Quantum Machine Learning concepts and competitive programming in Java
-- 🌱 **I'm currently learning** advanced Data Structures & Algorithms, German 🇩🇪, and modern web deployment
-- 💬 **Ask me about** UI/UX principles, Python libraries (NumPy/Pandas), or the GitHub SRM creatives team
+- 🌱 **I'm currently learning** advanced Data Structures & Algorithms, and AI/ML
+- 💬 **Ask me about** UI/UX principles, Python libraries (NumPy/Pandas)
 - ⚡ **Fun fact:** I love listening to Drake while playing Brawl Stars or building 1:1 pixel-perfect UI replicas (like my Spotify clone)
 
 ---
