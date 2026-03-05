@@ -52,8 +52,11 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-007AFF?style=flat&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
