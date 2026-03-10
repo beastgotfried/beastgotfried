@@ -76,11 +76,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beastgotfried&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beastgotfried&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beastgotfried&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beastgotfried&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
 </div>
-
----
 
 ### 🟡 Pac-Man / Snake Activity
 
