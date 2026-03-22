@@ -20,7 +20,7 @@
 ### 🌐 Socials
 
 <p align="left">
-  <a href="https://linkedin.com/in/ankush-wadehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush-wadehra" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ankush-wadehra-bb64b0258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankush-Wadehra" height="30" width="40" /></a>
   <a href="mailto:wadehraankush@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-wadehraankush%40gmail.com-blue?style=flat&logo=gmail" alt="email" height="28" />
 </a>
