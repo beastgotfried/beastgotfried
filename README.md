@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/beastgotfried">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ankush+Wadehra+👋;Computer+Science+Student;UI%2FUX+Designer+%26+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ankush+Wadehra+👋;Computer+Science+Student;UI%2FUX+Designer+%26+AI/ML Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,7 +9,7 @@
 ### 💫 About Me
 
 - 🔭 **I'm currently working on** **NeuroQ** (a hybrid quantum-classical neural network) and UI/UX projects
-- 🤝 **I'm looking to collaborate on** open-source AI/ML models, Figma prototypes, and Full Stack (MERN) apps
+- 🤝 **I'm looking to collaborate on** open-source AI/ML models, Figma prototypes
 - 🆘 **I'm looking for help with** advanced Quantum Machine Learning concepts and competitive programming in Java
 - 🌱 **I'm currently learning** advanced Data Structures & Algorithms, and AI/ML
 - 💬 **Ask me about** UI/UX principles, Python libraries (NumPy/Pandas)
