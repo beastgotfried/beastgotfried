@@ -13,7 +13,7 @@
 - 🆘 **I'm looking for help with** advanced Quantum Machine Learning concepts and competitive programming in Java
 - 🌱 **I'm currently learning** advanced Data Structures & Algorithms, and AI/ML
 - 💬 **Ask me about** UI/UX principles, Python libraries (NumPy/Pandas)
-- ⚡ **Fun fact:** I love listening to Drake while playing Brawl Stars or building 1:1 pixel-perfect UI replicas (like my Spotify clone)
+- ⚡ **Fun fact:** I love listening to Drake while playing Brawl Stars or building 1:1 pixel-perfect UI replicas
 
 ---
 
