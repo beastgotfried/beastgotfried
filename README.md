@@ -47,7 +47,7 @@ A cutting-edge fusion of parameterized quantum circuits with classical deep lear
 
 `Python` `PyTorch` `PennyLane` `Qiskit`
 
-[![Repo](https://img.shields.io/badge/View_Repo-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beastgotfried)
+[![Repo](https://img.shields.io/badge/View_Repo-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beastgotfried/NeuroQ--Quantum-ML-)
 
 </td>
 <td width="50%" valign="top">
@@ -59,7 +59,7 @@ Pose estimation, gesture recognition, and real-time object tracking pipelines. L
 
 `Python` `OpenCV` `MediaPipe` `PyTorch`
 
-[![Repo](https://img.shields.io/badge/View_Repo-302b63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beastgotfried)
+[![Repo](https://img.shields.io/badge/View_Repo-302b63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beastgotfried/ZenSpace)
 
 </td>
 </tr>
@@ -99,10 +99,10 @@ Figma prototypes translated to production React apps. 1:1 UI replicas with obses
 
 | Domain | Tools & Frameworks | Level |
 |:---|:---|:---|
-| 🔭 Deep Learning | PyTorch, Custom Architectures | `██████████` Advanced |
-| 👁️ Computer Vision | OpenCV, MediaPipe, CNNs | `█████████░` Advanced |
+| 🔭 Deep Learning | PyTorch, Custom Architectures | `███████░░░` Intermediate |
+| 👁️ Computer Vision | OpenCV, MediaPipe, CNNs | `███████░░░` Intermediate |
 | ⚛️ Quantum ML | PennyLane, Qiskit, Hybrid Nets | `███████░░░` Intermediate |
-| 📊 Data Science | NumPy, Pandas, Matplotlib | `██████████` Advanced |
+| 📊 Data Science | NumPy, Pandas, Matplotlib | `███████░░░` Intermediate |
 | 🚀 ML Deployment | Streamlit, Firebase, Supabase | `████████░░` Intermediate |
 
 </div>
