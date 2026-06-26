@@ -1,213 +1,167 @@
 <div align="center">
 
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Ankush%20Wadehra&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Deep%20Learning%20Algorithms%20%7C%20Computer%20Vision%20%7C%20Development&descAlign=50&descAlignY=70&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:1D4ED8,70:10B981,100:F59E0B&height=210&section=header&text=Ankush%20Wadehra&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=36&desc=AI%20Agents%20%7C%20Applied%20ML%20%7C%20Product%20Engineering&descAlign=50&descAlignY=66&descSize=17&animation=fadeIn" width="100%" alt="Ankush Wadehra profile banner"/>
 
-<!-- TYPING SVG -->
-<a href="https://github.com/beastgotfried">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7EB2FF&center=true&vCenter=true&width=700&lines=CS+Student+%26+AI%2FML+Researcher+%F0%9F%A7%A0;Building+NeuroQ+%E2%80%94+Hybrid+Quantum-Classical+NN;Computer+Vision+%7C+Deep+Learning+%7C+UI%2FUX;1%3A1+Pixel-Perfect+UIs+%2B+Brawl+Stars+%F0%9F%8E%AE" alt="Typing SVG" />
-</a>
+<p>
+  <a href="https://beastgotfried.vercel.app">
+    <img src="https://img.shields.io/badge/Blog-beastgotfried.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ankush-wadehra-bb64b0258/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ankush%20Wadehra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:wadehraankush@gmail.com">
+    <img src="https://img.shields.io/badge/Email-wadehraankush%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<br/>
-
-<!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=beastgotfried&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/beastgotfried?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS" alt="followers"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=beastgotfried&style=flat-square&color=1D4ED8&label=Profile%20views" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/beastgotfried?style=flat-square&color=10B981&label=Followers" alt="GitHub followers"/>
+</p>
 
 </div>
 
----
+## About
 
-## 🧬 About Me
+I build applied AI systems that move past demos: agent loops, data products, ML-backed dashboards, and interfaces that make technical work easier to use.
 
-```python
-class Ankush:
-    name       = "Ankush Wadehra"
-    role       = ["CS Student", "AI/ML Researcher", "UI/UX Designer"]
-    focus      = ["Deep Learning", "Computer Vision", "Quantum ML", "Full-Stack"]
-    current    = "Building NeuroQ — a Hybrid Quantum-Classical Neural Network"
-    learning   = ["Advanced DSA", "Quantum Machine Learning", "Transformer Architectures"]
-    collab     = ["Open-source AI/ML models", "Figma Prototypes", "CV Systems"]
-    fun_fact   = "I build 1:1 pixel-perfect UI replicas while listening to Drake 🎵"
+My current center of gravity is **AI agents and applied machine learning**: LangGraph/LangChain backends, tool selection, RAG-style product flows, computer vision, and ML systems that are understandable enough to ship.
+
+```txt
+Focus        AI agents, applied ML, computer vision, product engineering
+Currently    Building agenta, a Python/LangGraph rebuild of AgentGPT
+Preference   Systems with clear architecture, measurable behavior, and good UX
+Writing      Notes and project writeups at beastgotfried.vercel.app
 ```
 
----
-
-## 🚀 Featured Projects
+## Featured Work
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 NeuroQ
-> Hybrid Quantum-Classical Neural Network
-
-A cutting-edge fusion of parameterized quantum circuits with classical deep learning. Trainable quantum layers embedded inside PyTorch neural networks.
-
-`Python` `PyTorch` `PennyLane` `Qiskit`
-
-[![Repo](https://img.shields.io/badge/View_Repo-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beastgotfried/NeuroQ--Quantum-ML-)
-
-</td>
-<td width="50%" valign="top">
-
-### 👁️ Computer Vision Systems
-> Real-time CV with MediaPipe & OpenCV
-
-Pose estimation, gesture recognition, and real-time object tracking pipelines. Leverages MediaPipe's landmark detection fused with custom CNN classifiers.
-
-`Python` `OpenCV` `MediaPipe` `PyTorch`
-
-[![Repo](https://img.shields.io/badge/View_Repo-302b63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beastgotfried/ZenSpace)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Deep Learning Experiments
-> Neural Architectures & Research
-
-Exploring CNNs, RNNs, attention mechanisms and custom model architectures. Applied to vision tasks, classification, and generative modeling.
-
-`PyTorch` `NumPy` `Pandas` `Streamlit`
-
-[![Repo](https://img.shields.io/badge/View_Repo-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beastgotfried)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 UI/UX & Full-Stack Apps
-> Pixel-Perfect Interfaces + MERN Stack
-
-Figma prototypes translated to production React apps. 1:1 UI replicas with obsessive attention to spacing, animation, and micro-interactions.
-
-`React` `Node.js` `MongoDB` `Figma`
-
-[![Repo](https://img.shields.io/badge/View_Repo-302b63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beastgotfried)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://parkalore.vercel.app">Parkalore</a></h3>
+      <p><b>Predictive parking-enforcement intelligence console for Bengaluru.</b></p>
+      <p>Built for Flipkart GRiD Round 2. Turns a 298k-row traffic-police dataset into forecasts, impact-ranked deployment plans, coverage-gap analysis, repeat-offender workflows, and city-planning recommendations.</p>
+      <p><b>Highlights:</b> LightGBM hotspot forecast, impact scoring, dispatch routing, OSM-grounded curb planning, static Next.js console.</p>
+      <p><code>Next.js</code> <code>Python</code> <code>LightGBM</code> <code>deck.gl</code> <code>MapLibre</code></p>
+      <p>
+        <a href="https://parkalore.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"/></a>
+        <a href="https://github.com/beastgotfried/flipkart-round2"><img src="https://img.shields.io/badge/Repository-111827?style=flat-square&logo=github&logoColor=white" alt="Repository"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/beastgotfried/agenta">agenta</a></h3>
+      <p><b>Python rebuild of the AgentGPT loop using LangGraph and LangChain.</b></p>
+      <p>Moves the autonomous agent brain from browser-side endpoint calls into one server-side state machine that can plan tasks, choose tools, execute them, loop, and summarize results.</p>
+      <p><b>Highlights:</b> structured tool choice, registry-driven tools, search/code/reason/conclude actions, tested graph routing, planned FastAPI/SSE API.</p>
+      <p><code>Python</code> <code>LangGraph</code> <code>LangChain</code> <code>Groq</code> <code>FastAPI</code></p>
+      <p>
+        <a href="https://github.com/beastgotfried/agenta"><img src="https://img.shields.io/badge/Repository-111827?style=flat-square&logo=github&logoColor=white" alt="Repository"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/beastgotfried/rep-implementation">REP Implementation</a></h3>
+      <p><b>Reproducible benchmark suite for continual-learning prompting methods.</b></p>
+      <p>Implements the REP paper workflow with method folders, shared benchmark code, synthetic smoke tests, frozen ViT adapters, prompt-based continual-learning hooks, checkpoints, and metrics.</p>
+      <p><b>Highlights:</b> L2P-style method contracts, CIFAR/ImageFolder adapters, accuracy/forgetting metrics, reproducible configs.</p>
+      <p><code>Python</code> <code>PyTorch</code> <code>Continual Learning</code> <code>ViT</code></p>
+      <p>
+        <a href="https://github.com/beastgotfried/rep-implementation"><img src="https://img.shields.io/badge/Repository-111827?style=flat-square&logo=github&logoColor=white" alt="Repository"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/beastgotfried/Guardia">Guardia</a></h3>
+      <p><b>AI-powered enterprise case-intelligence platform.</b></p>
+      <p>A hackathon MVP for compliance workflows where Gemini retrieves relevant policy context and blocks unsafe case actions with cited rule explanations.</p>
+      <p><b>Highlights:</b> proactive policy retrieval, action validation, multi-region case queues, agent-assist UX.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Gemini</code> <code>Tailwind</code></p>
+      <p>
+        <a href="https://github.com/beastgotfried/Guardia"><img src="https://img.shields.io/badge/Repository-111827?style=flat-square&logo=github&logoColor=white" alt="Repository"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/beastgotfried/Sign-Language-Detection">Sign Language Recognition</a></h3>
+      <p><b>Real-time hand-gesture recognition system.</b></p>
+      <p>Captures webcam input, extracts MediaPipe hand landmarks, engineers geometric features, trains a Random Forest classifier, and smooths predictions for live recognition.</p>
+      <p><b>Highlights:</b> dual-hand tracking, temporal smoothing, confidence thresholds, feature engineering from 21-point hand landmarks.</p>
+      <p><code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>scikit-learn</code></p>
+      <p>
+        <a href="https://github.com/beastgotfried/Sign-Language-Detection"><img src="https://img.shields.io/badge/Repository-111827?style=flat-square&logo=github&logoColor=white" alt="Repository"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://beastgotfried.vercel.app">BEASTED Blog</a></h3>
+      <p><b>Personal tech blog for project notes, architecture writeups, and learning logs.</b></p>
+      <p>Markdown-driven React site with frontmatter parsing, reading-time metadata, syntax highlighting, sanitized rendering, and Vercel deployment.</p>
+      <p><b>Highlights:</b> custom content pipeline, project-linked posts, clean reading experience.</p>
+      <p><code>React</code> <code>Vite</code> <code>Markdown</code> <code>Tailwind</code> <code>Vercel</code></p>
+      <p>
+        <a href="https://beastgotfried.vercel.app"><img src="https://img.shields.io/badge/Live%20Site-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live site"/></a>
+        <a href="https://github.com/beastgotfried/blog_writing"><img src="https://img.shields.io/badge/Repository-111827?style=flat-square&logo=github&logoColor=white" alt="Repository"/></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
----
+## More Builds
 
-## 🧠 AI / ML Expertise
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| [miniagent](https://github.com/beastgotfried/miniagent) | Minimal LangGraph tool-calling loop for learning agent internals | Python, LangGraph, LangChain, Groq |
+| [gpt](https://github.com/beastgotfried/gpt) | Character-level transformer implementation from scratch | Python, PyTorch |
+| [ZenSpace](https://github.com/beastgotfried/ZenSpace) | Gesture and posture-aware wellness intervention prototype | Python, OpenCV, MediaPipe |
+| [text-summariser-langchain](https://github.com/beastgotfried/text-summariser-langchain) | LangChain summarization project and learning track | Python, LangChain, Groq |
 
-<div align="center">
+## Toolbox
 
-| Domain | Tools & Frameworks | Level |
-|:---|:---|:---|
-| 🔭 Deep Learning | PyTorch, Custom Architectures | `███████░░░` Intermediate |
-| 👁️ Computer Vision | OpenCV, MediaPipe, CNNs | `███████░░░` Intermediate |
-| ⚛️ Quantum ML | PennyLane, Qiskit, Hybrid Nets | `███████░░░` Intermediate |
-| 📊 Data Science | NumPy, Pandas, Matplotlib | `███████░░░` Intermediate |
-| 🚀 ML Deployment | Streamlit, Firebase, Supabase | `████████░░` Intermediate |
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python, TypeScript, JavaScript, Java, C</td>
+  </tr>
+  <tr>
+    <td><b>AI and ML</b></td>
+    <td>PyTorch, LangChain, LangGraph, Groq, Gemini, scikit-learn, LightGBM</td>
+  </tr>
+  <tr>
+    <td><b>Computer Vision</b></td>
+    <td>OpenCV, MediaPipe, feature engineering, real-time webcam pipelines</td>
+  </tr>
+  <tr>
+    <td><b>Web and Product</b></td>
+    <td>React, Next.js, Vite, Tailwind, FastAPI, SQLite, Vercel</td>
+  </tr>
+  <tr>
+    <td><b>Data and Maps</b></td>
+    <td>pandas, NumPy, Recharts, deck.gl, MapLibre, OpenStreetMap</td>
+  </tr>
+</table>
 
-</div>
+## Current Direction
 
----
+- Building **agenta** into a streamed agent backend with FastAPI, SSE, checkpointing, and durable memory.
+- Turning learning projects into clear writeups so each repo explains the architecture, not just the code.
+- Looking for AI/ML, agents, and product-engineering work where prototype quality and user experience both matter.
 
-## 💻 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-302b63?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-24243e?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-302b63?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-24243e?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-**AI / ML / Computer Vision**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0f0c29?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![OpenCV](https://img.shields.io/badge/OpenCV-302b63?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-24243e?style=for-the-badge&logo=google&logoColor=007AFF)
-![NumPy](https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Pandas](https://img.shields.io/badge/Pandas-302b63?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-24243e?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-
-**Full-Stack / Web**
-
-![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-302b63?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Express](https://img.shields.io/badge/Express-24243e?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f0c29?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
-![Firebase](https://img.shields.io/badge/Firebase-302b63?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24243e?style=for-the-badge&logo=postgresql&logoColor=316192)
-![Supabase](https://img.shields.io/badge/Supabase-0f0c29?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![MySQL](https://img.shields.io/badge/MySQL-302b63?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Design & UI/UX**
-
-![Figma](https://img.shields.io/badge/Figma-0f0c29?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Canva](https://img.shields.io/badge/Canva-302b63?style=for-the-badge&logo=canva&logoColor=00C4CC)
-
----
-
-## 📊 GitHub Stats
+## GitHub Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=beastgotfried&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0c29&title_color=7EB2FF&icon_color=a78bfa&text_color=c9d1d9" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beastgotfried&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7EB2FF&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=beastgotfried&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&title_color=1D4ED8&icon_color=10B981&text_color=374151" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beastgotfried&layout=compact&hide_border=true&theme=transparent&title_color=1D4ED8&text_color=374151" height="165" alt="Top languages"/>
 
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beastgotfried&theme=tokyonight&hide_border=true&background=0f0c29&ring=7EB2FF&fire=a78bfa&currStreakLabel=7EB2FF" width="60%"/>
-</div>
+## Connect
 
----
+<p>
+  <a href="https://www.linkedin.com/in/ankush-wadehra-bb64b0258/">LinkedIn</a> ·
+  <a href="https://beastgotfried.vercel.app">Blog</a> ·
+  <a href="mailto:wadehraankush@gmail.com">Email</a>
+</p>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=beastgotfried&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beastgotfried/beastgotfried/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beastgotfried/beastgotfried/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/beastgotfried/beastgotfried/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beastgotfried&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=7EB2FF&line=a78bfa&point=ffffff" width="100%"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankush_Wadehra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-wadehra-bb64b0258/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-wadehraankush@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wadehraankush@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-beastgotfried-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beastgotfried)
-
-</div>
-
----
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  <i>"The best way to predict the future is to build it — one neural layer at a time."</i>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,35:10B981,70:1D4ED8,100:0B1020&height=100&section=footer" width="100%" alt="Footer wave"/>
