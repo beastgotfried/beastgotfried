@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 18" role="img" aria-label="Gradient divider">
+  <defs>
+    <linearGradient id="profileGradient" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0EA5E9"/>
+      <stop offset="0.32" stop-color="#8B5CF6"/>
+      <stop offset="0.66" stop-color="#F43F5E"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+  <rect x="0" y="7" width="1280" height="4" rx="2" fill="url(#profileGradient)"/>
+  <rect x="0" y="6" width="1280" height="6" rx="3" fill="url(#profileGradient)" opacity="0.55" filter="url(#blur)"/>
+</svg>
