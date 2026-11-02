@@ -18,6 +18,6 @@
                       making ai agents
 </pre>
 
-[LinkedIn](https://www.linkedin.com/in/ankush-wadehra-bb64b0258/) · [wadehraankush@gmail.com](mailto:wadehraankush@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ankush-wadehra-bb64b0258/) ·  [wadehraankush@gmail.com](mailto:wadehraankush@gmail.com)
 
 </div>
